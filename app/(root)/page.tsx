@@ -10,7 +10,7 @@ export default function Home() {
           {/*wrapper gives max width */}
           <div className="flex flex-col justify-center gap-8">
             <h1 className="h1-bold">
-              Host, Connect, Celebrate: Your Events,Our Platform!
+              Host, Connect, Celebrate: Your Events and Activites,Our Platform!
             </h1>
             <p className="p-regular-20 md:p-regular-24">
               Book and learn helpful tips from 3000+ mentors in world-class companies
